@@ -1,0 +1,6 @@
+framework module Pods_Sprint_2_Sprint_2UITests {
+  umbrella header "Pods-Sprint-2-Sprint-2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
